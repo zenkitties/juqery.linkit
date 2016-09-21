@@ -1,0 +1,33 @@
+{    
+    "name": "linkIt",
+    "title": "LinkIt jQuery Plugin",
+    "description": "Simple plugin to convert any element into a link",
+    "keywords": [
+        "link",
+        "html",
+        "content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Nick Myers",
+        "url": "http://zenkitties.pw"
+    },
+    "maintainers": [
+        {
+            "name": "Nick Myers",
+            "email": "zenfootphilosopher@gmail.com",
+            "url": "http://zenkitties.pw"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/zenkitties/juqery.linkit/license.txt"
+        }
+    ],
+    "homepage": "https://github.com/zenkitties/juqery.linkit",
+    "docs": "https://github.com/zenkitties/juqery.linkit",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
